@@ -1,0 +1,2 @@
+.custom-logo:hover{background:white;border-radius:20px;}
+.site-info{display:none;}
